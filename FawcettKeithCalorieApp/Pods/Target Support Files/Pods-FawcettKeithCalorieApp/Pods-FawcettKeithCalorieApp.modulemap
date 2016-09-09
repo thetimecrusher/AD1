@@ -1,0 +1,6 @@
+framework module Pods_FawcettKeithCalorieApp {
+  umbrella header "Pods-FawcettKeithCalorieApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
